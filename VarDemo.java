@@ -4,7 +4,7 @@ public class VarDemo {
 
 	public static void main(String[] args) {
 	//1
-		int a ;
+	int a ;
 	int b,c;
 	//2
 	int d = 5;
